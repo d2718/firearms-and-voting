@@ -1,8 +1,8 @@
-Plots of death rate from firearms vs voting results by county in election
-years from 2000 to 2016. Point size reflects county population. "Average"
-lines are the weighted, aggregate averages for all counties that voted in
-favor of that particular candidate; the smaller lines represent 95%
-confidence intervals.
+Plots of death rate from firearms vs voting results by county in presidential
+election years from 2000 to 2016. Point size is relative to county population.
+"Average" lines are the population-weighted, aggregate death-rate averages
+for all counties that voted in favor of that particular party's presidential
+candidate; the smaller lines represent 95% confidence intervals.
 
 Firearm deaths include both legal and illegal use, both accidental and
 intentional discharges, including suicide.
